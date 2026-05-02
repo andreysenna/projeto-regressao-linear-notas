@@ -20,5 +20,5 @@ Este projeto analisa a relação entre **horas estudadas** e **notas de exame** 
 
 ## 👤 Autor
 Andrey Paes Leme Senna Leal
-- GitHub: [@andrey-senna](https://github.com/andrey-senna)
+- GitHub: [@andrey-senna](https://github.com/andreysenna)
 - LinkedIn: [https://www.linkedin.com/in/andrey-senna-425b25366/](https://www.linkedin.com/in/andrey-senna-425b25366/)
